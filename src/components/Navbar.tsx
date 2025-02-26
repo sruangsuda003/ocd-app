@@ -80,6 +80,9 @@ export default function Navbar() {
                     <a className="dropdown-item" href="/bloghome2">
                       การวินิจฉัยระบบด้วย PMQA
                     </a>
+                    <a className="dropdown-item" href="/portfolio1">
+                      การดำเนินการเปลี่ยนแปลงองค์การภาครัฐในยุคดิจิทััล
+                    </a>
                     <a className="dropdown-item" href="portfolio-4-col.html">
                       การแทรกแซงและการจัดกิจกรรมพัฒนาองค์การภาครัฐ
                     </a>
@@ -103,8 +106,8 @@ export default function Navbar() {
                     className="dropdown-menu dropdown-menu-right"
                     aria-labelledby="navbarDropdownBlog"
                   >
-                    <a className="dropdown-item" href="blog-home-1.html">
-                      การวิเคราะห์ข้อมูลขนาดใหญ่เพื่อการตัดสินใจเชิงนโยบาย
+                    <a className="dropdown-item" href="/ai">
+                      AI ตรวจวินิจฉัยโรคมะเร็งปอด
                     </a>
                     <a className="dropdown-item" href="blog-home-2.html">
                       Blog Home 2

@@ -9,7 +9,7 @@ export default function Bloghome2() {
           <div className="container">
             {/* Page Heading/Breadcrumbs */}
             <h1 className="mt-4 mb-3">
-              การพัฒนาคุณภาพการบริหารจัดการภาครัฐ 4.0
+              การวินิจฉัยด้วยระบบ PMQA
               {/* <small>Subheading</small> */}
             </h1>
           </div>
@@ -171,8 +171,6 @@ export default function Bloghome2() {
                 <a href="#">สรวงสุดา ทองมินทร์</a>
               </div>
             </div>
-          </div>
-          <div className="pagination_bar_arrow">
             {/* Blog Post */}
             <div className="card mb-4">
               <div className="card-body">
@@ -209,6 +207,7 @@ export default function Bloghome2() {
               </div>
             </div>
           </div>
+          <div className="pagination_bar_arrow"></div>
           <div className="pagination_bar_arrow">
             {/* Pagination */}
             <ul className="pagination justify-content-center mb-4">

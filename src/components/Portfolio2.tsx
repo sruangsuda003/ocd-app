@@ -204,12 +204,12 @@ export default function Portfolio2() {
             <div className="col-lg-6 portfolio-item">
               <div className="card h-100">
                 <a href="#">
-                  <img className="card-img-top" src="images/p6.jpg" alt="" />
+                  <img className="card-img-top" src="images/p10.jpg" alt="" />
                 </a>
                 <div className="card-body">
                   <h4 className="card-title">
                     <a
-                      href="assets/organization  intervention/organization  intervention112-142.pdf"
+                      href="assets/technostructure/technostructure/technostructure-78-123.pdf"
                       target="_blank "
                       rel="noopener noreferrer"
                     >
@@ -217,12 +217,10 @@ export default function Portfolio2() {
                     </a>
                   </h4>
                   <p className="card-text">
-                    กลยุทธ์การแข่งขัน คือ
-                    เครื่องมือของนักบริหารในการบริหารงานเพื่อตอบสนองต่อการเปลี่ยนแปลงของสภาพแวดล้อมที่เพิ่มขึ้น
-                    การบริหารเชิงกลยุทธ์จะเน้นและให้ความสำคัญต่อการตัดสินใจเชิงกลยุทธ์
-                    (Strategic Decision Making)
-                    ที่ไม่เหมือนกับการตัดสินใจในลักษณะอื่น ๆ
-                    เพราะการบริหารเชิงกลยุทธ์จะเกี่ยวข้องกับอนาคตในระยะยาวขององค์การทั้งหมด
+                    การสร้างวัฒนธรรมองค์กร (Organization Culture)
+                    มีผลต่อประสิทธิภาพในการทำงานอย่างมีนัยยะสำคัญ
+                    โดยเฉพาะการกำหนดวิถีการทำงานของคนในองค์กรให้เป็นไปตามทิศทางเดียวกัน
+                    เพื่อสร้างความเจริญงอกงามให้กับองค์กร
                   </p>
                 </div>
               </div>
